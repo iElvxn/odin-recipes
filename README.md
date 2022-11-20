@@ -1,1 +1,1 @@
-Recipe Project to test the HTML skills that I have acquired throug Odin Project.
+Recipe Project to test the HTML skills that I have acquired through Odin Project.
